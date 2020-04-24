@@ -1,0 +1,9 @@
+TC39 -> comite encargado de recibir y validar propuestas de nuevas funcionalidades para js
+
+Proceso:
+
+Stage 0 -> Idea (inquietud de algun desarrollador o implementador)
+Stage 1 -> Propuesta (si la idea resuelve un problema, se pasa al siguiente estado explicando el ¿por qué? y ¿cómo se soluciona ese problema?)
+Stage 2 -> Borrador (Preparación de todo lo que implica la especificación, como se prueba?, como funciona? y como resuelve el problema particular?)
+Stage 3 -> Candidato (probado y valorado sobre el comite TC39, para ser incorporado en la siguiente versión)
+Stage 4 -> Listo (Idea incorporado en la siguiente versión)

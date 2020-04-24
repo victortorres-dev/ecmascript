@@ -1,0 +1,27 @@
+{
+  "name": "ecmascript",
+  "version": "0.0.1",
+  "description": "understanding ecmascript",
+  "main": "index.js",
+  "scripts": {
+    "e6": "node src/es6/index.js",
+    "e7": "node src/es7/index.js",
+    "e8": "node src/es8/index.js",
+    "e9": "node src/es9/index.js",
+    "e10": "node src/es10/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victortorres-dev/ecmascript.git"
+  },
+  "author": "victortorres-dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victortorres-dev/ecmascript/issues"
+  },
+  "homepage": "https://github.com/victortorres-dev/ecmascript#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.3",
+    "standard": "^14.3.3"
+  }
+}
